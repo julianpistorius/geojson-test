@@ -130,14 +130,8 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='/tucson'>Tucson</a>"
-            },
-            "crs": {
-                "type": "link",
-                "properties": {
-                    "href": "/tucson",
-                    "type": "proj4"
-                }
+                "details": "<a href='/tucson'>Tucson</a>",
+                "url": "/tucson",
             }
         },
         
