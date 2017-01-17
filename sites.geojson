@@ -10,7 +10,7 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='/auckland'>Auckland</a>"
+                "details": "<a href='/auckland'>Auckland</a>",
             }
         },
         
@@ -130,7 +130,8 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='/tucson'>Tucson</a>"
+                "details": "<a href='/tucson'>Tucson</a>",
+                "href": "/tucson"
             }
         },
         
