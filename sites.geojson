@@ -12,7 +12,8 @@
                 "title": "<a href='https://2017.resbaz.com/tucson'>Tucson</a>",
                 "marker-color": "#2b3990",
                 "url": "https://2017.resbaz.com/tucson",
-                "popupContent": "Saguaros! <a href='https://2017.resbaz.com/tucson'>Yay!</a>"
+                "popupContent": "Saguaros! <a href='https://2017.resbaz.com/tucson'>Yay!</a>",
+                "details": "<a href='/tucson'>Details</a>"
             }
         }
     ]
